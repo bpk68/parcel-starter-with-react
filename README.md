@@ -2,7 +2,7 @@
 
 If you're looking to get started using the Parcel JS bundler as a Webpack alternative, but would like to use the popular React framework, then this is the place for you.
 
-Following on from a recent blog post on [using React with Parcel JS](https://robkendal.co.uk/blog/2019-04-29-using-parcel-bundler-with-react-js/), I've put together this quick and simple starter kit so you can worry less about 
+Following on from a recent blog post on [using React with Parcel JS](https://robkendal.co.uk/blog/2019-04-29-using-parcel-bundler-with-react-js/), I've put together this quick and simple starter kit so you can worry less about the setup and configuration and more about developing!
 
 ## Getting started
 
