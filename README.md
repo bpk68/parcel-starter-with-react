@@ -40,7 +40,7 @@ The important files of note are:
 
 - `/src/index.html` -- this is where the project starts and Parcel looks for its first bundle starting point
 - `/src/assets/style.scss` -- as mentioned, the first file where the system looks for CSS information 
-- `/src/App.js` -- as you'd epxect in a typical React setup, this is the starting point for the React app, loading in our Title component and rendering to the screen
+- `/src/App.js` -- as you'd expect in a typical React setup, this is the starting point for the React app, loading in our Title component and rendering to the screen
 - `/src/components/Title.jsx` - a simple example of a React component that renders a heading 1 on the page
 
 ## Issues, questions, more information?
